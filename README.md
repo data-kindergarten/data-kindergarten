@@ -1,5 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KH.KIM-blue?style=round&logo=linkedin)](https://www.linkedin.com/in/stevekhkim/)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-sydbne@gmail.com-red?style=round&logo=gmail)](mailto:stevekhkim@naver.com)
+[![Email](https://img.shields.io/badge/Email-stevekhkim@naver.com-red?style=round&logo=gmail)](mailto:stevekhkim@naver.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstevekhkim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Hi there 👋
